@@ -1306,6 +1306,23 @@
       ],
       "collegamenti": [],
       "incontri": []
+    },
+    {
+      "nome": "Pane",
+      "frase": "la crosta",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-02 17:22:16",
+      "aggiornata_il": "2026-09-02 17:22:46",
+      "sensi": [],
+      "cluster": [
+        "cose che vorrei imparare a cucinare"
+      ],
+      "collegamenti": [],
+      "incontri": []
     }
   ],
   "lessico": []
