@@ -1,0 +1,23 @@
+{
+  "formato": "sensi/1",
+  "voci": [
+    {
+      "nome": "Trippa",
+      "frase": "ci torno ogni volta che posso",
+      "verbo": "ci sono stato",
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 00:10:31",
+      "aggiornata_il": "2026-09-01 00:10:31",
+      "sensi": [],
+      "cluster": [
+        "ristoranti dove tornare"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    }
+  ],
+  "lessico": []
+}

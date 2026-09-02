@@ -1,0 +1,23 @@
+{
+  "formato": "sensi/1",
+  "voci": [
+    {
+      "nome": "Kartell",
+      "frase": "produce ottime sedie in plastica trasparente",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 00:17:03",
+      "aggiornata_il": "2026-09-01 00:17:42",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    }
+  ],
+  "lessico": []
+}

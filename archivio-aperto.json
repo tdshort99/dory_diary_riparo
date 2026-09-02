@@ -1,0 +1,20 @@
+{
+ "aperto": "principale",
+ "archivi": [
+  {
+   "chiave": "principale",
+   "nome": "Dory's diary",
+   "file": "sensi.db"
+  },
+  {
+   "chiave": "prova-di-giulia",
+   "nome": "Prova di Giulia",
+   "file": "archivio-prova-di-giulia.db"
+  },
+  {
+   "chiave": "prova-di-bob",
+   "nome": "Prova di Bob",
+   "file": "archivio-prova-di-bob.db"
+  }
+ ]
+}

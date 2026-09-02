@@ -1,0 +1,1312 @@
+{
+  "formato": "sensi/1",
+  "voci": [
+    {
+      "nome": "Etna Rosso",
+      "frase": "pazzesco",
+      "verbo": "bevuto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:07:12",
+      "aggiornata_il": "2026-08-30 20:07:12",
+      "sensi": [
+        "gusto",
+        "olfatto"
+      ],
+      "cluster": [
+        "bottiglie"
+      ],
+      "collegamenti": [
+        {
+          "a": "Trippa",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:07:12",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "075ed702837183cdc0a81c04.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Trippa",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:07:12",
+      "aggiornata_il": "2026-08-30 20:25:14",
+      "sensi": [],
+      "cluster": [
+        "ristoranti"
+      ],
+      "collegamenti": [
+        {
+          "a": "Etna Rosso",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:07:12",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-30 20:07:27",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Un Segreto è per Sempre",
+      "frase": null,
+      "verbo": "visto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:08:57",
+      "aggiornata_il": "2026-08-30 20:08:57",
+      "sensi": [
+        "udito",
+        "vista"
+      ],
+      "cluster": [
+        "film piaciuti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:08:57",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Barbera Oltrepò Pavese Poderi Riccagioia",
+      "frase": null,
+      "verbo": "bevuto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:28:08",
+      "aggiornata_il": "2026-08-30 20:28:08",
+      "sensi": [
+        "gusto",
+        "olfatto"
+      ],
+      "cluster": [
+        "bottiglie"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:28:08",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Casa Lambrate",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:28:48",
+      "aggiornata_il": "2026-08-30 21:37:32",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:28:48",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "vino",
+      "frase": null,
+      "verbo": "bevuto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "passata",
+      "passata_il": "2026-08-30T23:37:24",
+      "creata_il": "2026-08-30 20:29:30",
+      "aggiornata_il": "2026-08-30 21:37:24",
+      "sensi": [
+        "gusto",
+        "olfatto"
+      ],
+      "cluster": [
+        "bottiglie"
+      ],
+      "collegamenti": [
+        {
+          "a": "Giuseppe",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 20:29:30",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Giuseppe",
+      "frase": null,
+      "verbo": "insieme a",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 20:29:30",
+      "aggiornata_il": "2026-08-30 20:29:30",
+      "sensi": [],
+      "cluster": [
+        "amici"
+      ],
+      "collegamenti": [
+        {
+          "a": "vino",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Coca-Cola",
+      "frase": null,
+      "verbo": "bevuto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:10:39",
+      "aggiornata_il": "2026-08-30 21:24:25",
+      "sensi": [
+        "gusto"
+      ],
+      "cluster": [
+        "bevande"
+      ],
+      "collegamenti": [
+        {
+          "a": "Marta",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 21:10:39",
+          "dove": null,
+          "con_chi": "Marta",
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Marta",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:10:58",
+      "aggiornata_il": "2026-08-31 08:13:12",
+      "sensi": [],
+      "cluster": [
+        "amici"
+      ],
+      "collegamenti": [
+        {
+          "a": "Coca-Cola",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Lambrate",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:11:12",
+      "aggiornata_il": "2026-08-30 21:21:06",
+      "sensi": [],
+      "cluster": [
+        "quartieri"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-30 21:11:12",
+          "dove": "Lambrate",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "scie chimiche",
+      "frase": "sono un complotto",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:46:46",
+      "aggiornata_il": "2026-08-30 21:46:46",
+      "sensi": [
+        "pensiero"
+      ],
+      "cluster": [
+        "principi"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "tette",
+      "frase": "bellissime",
+      "verbo": "toccato",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:47:35",
+      "aggiornata_il": "2026-08-30 21:47:35",
+      "sensi": [
+        "tatto",
+        "vista"
+      ],
+      "cluster": [],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-30 21:47:35",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Shutter Island",
+      "frase": "incredibile",
+      "verbo": "visto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:48:40",
+      "aggiornata_il": "2026-08-30 21:53:52",
+      "sensi": [
+        "udito",
+        "vista"
+      ],
+      "cluster": [
+        "film piaciuti"
+      ],
+      "collegamenti": [
+        {
+          "a": "Martin Scorsese",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 21:48:40",
+          "dove": null,
+          "con_chi": null,
+          "nota": "Climbing",
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Martin Scorsese",
+      "frase": null,
+      "verbo": "",
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:48:40",
+      "aggiornata_il": "2026-08-30 21:48:40",
+      "sensi": [],
+      "cluster": [
+        "registi"
+      ],
+      "collegamenti": [
+        {
+          "a": "Shutter Island",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Climbing",
+      "frase": "la vicinanza con il lavoro e la quantità di percorsi disponibili",
+      "verbo": "fatto",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-30 21:54:03",
+      "aggiornata_il": "2026-08-31 08:24:10",
+      "sensi": [
+        "tatto"
+      ],
+      "cluster": [
+        "sport"
+      ],
+      "collegamenti": [
+        {
+          "a": "Rockspot Milano",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Lorenzo, Min",
+          "tipo": "persona"
+        },
+        {
+          "a": "Rock Spot",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-30 21:54:03",
+          "dove": "Rock Spot",
+          "con_chi": "Lorenzo, Min",
+          "nota": "la vicinanza con il lavoro e la quantità di percorsi disponibili",
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "guacamole",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 06:14:35",
+      "aggiornata_il": "2026-08-31 06:14:35",
+      "sensi": [],
+      "cluster": [
+        "piatti"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "carbonara risottata",
+      "frase": null,
+      "verbo": "cucinare",
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 06:15:11",
+      "aggiornata_il": "2026-08-31 06:15:11",
+      "sensi": [],
+      "cluster": [
+        "cucinare"
+      ],
+      "collegamenti": [
+        {
+          "a": "pancakes",
+          "tipo": "altro"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "pancakes",
+      "frase": null,
+      "verbo": "cucinare",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 06:15:11",
+      "aggiornata_il": "2026-08-31 06:15:11",
+      "sensi": [],
+      "cluster": [
+        "cucinare"
+      ],
+      "collegamenti": [
+        {
+          "a": "carbonara risottata",
+          "tipo": "altro"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Luca Ravenna",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 06:15:38",
+      "aggiornata_il": "2026-08-31 06:15:38",
+      "sensi": [],
+      "cluster": [
+        "comici"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Valerio Lundini",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 06:17:10",
+      "aggiornata_il": "2026-08-31 06:17:23",
+      "sensi": [],
+      "cluster": [
+        "comici"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Jordan Peele",
+      "frase": "la tensione",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "passata",
+      "passata_il": "2026-08-31T08:29:37",
+      "creata_il": "2026-08-31 06:27:58",
+      "aggiornata_il": "2026-08-31 06:29:37",
+      "sensi": [],
+      "cluster": [
+        "registi"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Rockspot Milano",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 08:22:02",
+      "aggiornata_il": "2026-08-31 09:22:06",
+      "sensi": [],
+      "cluster": [
+        "palestre"
+      ],
+      "collegamenti": [
+        {
+          "a": "Climbing",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Milano",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 08:22:02",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-31 09:22:06",
+          "dove": "Milano",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Lorenzo, Min",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 08:23:37",
+      "aggiornata_il": "2026-08-31 08:23:37",
+      "sensi": [],
+      "cluster": [
+        "amici"
+      ],
+      "collegamenti": [
+        {
+          "a": "Climbing",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Rock Spot",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 08:24:10",
+      "aggiornata_il": "2026-08-31 08:24:10",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "Climbing",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 08:24:10",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Logitech MX Master",
+      "frase": "l'ergonomia",
+      "verbo": "comprato",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 08:25:04",
+      "aggiornata_il": "2026-08-31 08:25:35",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [
+        {
+          "a": "Best Buy",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 08:25:04",
+          "dove": null,
+          "con_chi": null,
+          "nota": "l'ergonomia",
+          "foto": "010671922265f6573ff78b3b.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Best Buy",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "passata",
+      "passata_il": "2026-08-31 08:37:10",
+      "creata_il": "2026-08-31 08:25:04",
+      "aggiornata_il": "2026-08-31 08:25:04",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "Logitech MX Master",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 08:25:04",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Rockspot",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "passata",
+      "passata_il": "2026-08-31T11:08:19",
+      "creata_il": "2026-08-31 09:08:12",
+      "aggiornata_il": "2026-08-31 09:08:19",
+      "sensi": [],
+      "cluster": [],
+      "collegamenti": [
+        {
+          "a": "Milano",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 09:08:12",
+          "dove": "Milano",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Milano",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 09:08:12",
+      "aggiornata_il": "2026-08-31 20:13:12",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "Rockspot Milano",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Rockspot",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Princi",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Zero Gravity",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 09:08:12",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-31 09:22:06",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-31 19:02:31",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-31 20:13:12",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "&lt;UNKNOWN&gt;",
+      "frase": "tecnica giapponese",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "passata",
+      "passata_il": "2026-08-31T11:30:01",
+      "creata_il": "2026-08-31 09:25:33",
+      "aggiornata_il": "2026-08-31 09:30:01",
+      "sensi": [],
+      "cluster": [
+        "artisti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 09:25:33",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-08-31 09:29:53",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Matthew McConaughey",
+      "frase": "Il carisma e il fatto che sa essere grezzo ma con valori saldi. Un pò \"padre di famiglia\" ma non da copertina. Concreto.",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 09:48:27",
+      "aggiornata_il": "2026-08-31 09:49:47",
+      "sensi": [],
+      "cluster": [
+        "attori"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Alessi",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 10:18:33",
+      "aggiornata_il": "2026-08-31 10:18:33",
+      "sensi": [],
+      "cluster": [
+        "marchi"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 10:18:33",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "caffettiera",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 10:20:02",
+      "aggiornata_il": "2026-08-31 10:20:02",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "posate",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 10:20:02",
+      "aggiornata_il": "2026-08-31 10:20:02",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "bollitore",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 10:20:02",
+      "aggiornata_il": "2026-08-31 10:20:02",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Sharpie",
+      "frase": "il design",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 12:00:26",
+      "aggiornata_il": "2026-08-31 12:01:10",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 12:00:26",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "a61c346bcc146825cad41ad4.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Loctite Super Attak",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 13:58:17",
+      "aggiornata_il": "2026-08-31 13:58:17",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 13:58:17",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "b14503b0ac54b14d0abe7776.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Get Out",
+      "frase": "Tra thriller e horror",
+      "verbo": "visto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "passata",
+      "passata_il": "2026-08-31T21:47:39",
+      "creata_il": "2026-08-31 18:40:40",
+      "aggiornata_il": "2026-08-31 19:47:39",
+      "sensi": [],
+      "cluster": [
+        "film piaciuti"
+      ],
+      "collegamenti": [
+        {
+          "a": "Emiliano Ansaldi",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 18:41:51",
+          "dove": null,
+          "con_chi": "Emiliano Ansaldi",
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Emiliano Ansaldi",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 18:41:51",
+      "aggiornata_il": "2026-08-31 18:41:51",
+      "sensi": [],
+      "cluster": [
+        "amici"
+      ],
+      "collegamenti": [
+        {
+          "a": "Get Out",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Pancakes con gelato e sciroppo d'acero",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 18:59:52",
+      "aggiornata_il": "2026-08-31 18:59:52",
+      "sensi": [],
+      "cluster": [
+        "dolci che mi piacciono"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 18:59:52",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Princi",
+      "frase": "l'ambiente",
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 19:02:31",
+      "aggiornata_il": "2026-08-31 19:05:17",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "Milano",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Michela",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-08-31 19:02:31",
+          "dove": "Milano",
+          "con_chi": "Michela",
+          "nota": "l'ambiente",
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Michela",
+      "frase": null,
+      "verbo": "regalato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 19:05:17",
+      "aggiornata_il": "2026-08-31 20:11:34",
+      "sensi": [],
+      "cluster": [
+        "amici"
+      ],
+      "collegamenti": [
+        {
+          "a": "Princi",
+          "tipo": "persona"
+        },
+        {
+          "a": "Insostenibile leggerezza dell'essere",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "The Lobster",
+      "frase": null,
+      "verbo": "visto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "passata",
+      "passata_il": "2026-08-31T21:47:43",
+      "creata_il": "2026-08-31 19:37:19",
+      "aggiornata_il": "2026-08-31 19:47:43",
+      "sensi": [],
+      "cluster": [
+        "film piaciuti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 19:37:19",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Insostenibile leggerezza dell'essere",
+      "frase": "vorrei leggerlo ma non ho mai tempo",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 20:11:34",
+      "aggiornata_il": "2026-08-31 20:11:34",
+      "sensi": [],
+      "cluster": [
+        "libri da leggere"
+      ],
+      "collegamenti": [
+        {
+          "a": "Michela",
+          "tipo": "persona"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Zero Gravity",
+      "frase": "penso sia simile al paracadutismo ma più safe",
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 20:13:12",
+      "aggiornata_il": "2026-08-31 20:13:12",
+      "sensi": [],
+      "cluster": [
+        "sport da provare"
+      ],
+      "collegamenti": [
+        {
+          "a": "Milano",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": []
+    },
+    {
+      "nome": "Il Grinch",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 20:34:04",
+      "aggiornata_il": "2026-08-31 20:34:04",
+      "sensi": [],
+      "cluster": [
+        "film da rivedere d'inverno"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "got2b Beach Matt",
+      "frase": "li lascia opachi e mossi con effetto naturale",
+      "verbo": "comprato",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 21:02:15",
+      "aggiornata_il": "2026-08-31 21:02:15",
+      "sensi": [],
+      "cluster": [
+        "prodotti per l'estetica personale"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-08-31 21:02:15",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "bdff87eef8068a5620321a6b.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Brad Pitt",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 22:59:19",
+      "aggiornata_il": "2026-08-31 22:59:19",
+      "sensi": [],
+      "cluster": [
+        "attori"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "burro di arachidi",
+      "frase": "buono a colazione",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-08-31 23:41:49",
+      "aggiornata_il": "2026-08-31 23:42:23",
+      "sensi": [],
+      "cluster": [
+        "dolci che mi piacciono"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "asta del metro come supporto per microfono clip",
+      "frase": "Usare l'asta del metro come supporto per il microfono clip",
+      "verbo": null,
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 08:28:03",
+      "aggiornata_il": "2026-09-01 08:28:03",
+      "sensi": [],
+      "cluster": [
+        "supporti fancy microfono"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "acciughe",
+      "frase": "cibo comodo da acquistare specialmente per fare tipo pasta e acciughe",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 18:21:29",
+      "aggiornata_il": "2026-09-01 18:21:29",
+      "sensi": [],
+      "cluster": [
+        "lista della spesa dinamica"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "Farza954",
+      "frase": "racconto del passaggio dalla cameretta a uno spazio di 600mq con macchinari, dove costruiremo qualcosa di folle tra hardware, software, design e intelligenza artificiale; lavoriamo per migliorare la vita delle persone partendo dalla memoria, perché per cambiare basta un piccolo gesto, come sollevare un mazzo di chiavi",
+      "verbo": "fatto",
+      "specie": "pensiero",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 20:05:01",
+      "aggiornata_il": "2026-09-01 20:05:04",
+      "sensi": [],
+      "cluster": [
+        "content creator da cui prendere ispirazione"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    },
+    {
+      "nome": "The Marketing Interns",
+      "frase": "un pò tossici per work hard ma molto motivazionali, ci sta copiargli dei format",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": "misto",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-01 20:48:41",
+      "aggiornata_il": "2026-09-01 20:48:41",
+      "sensi": [],
+      "cluster": [
+        "content creator da cui prendere ispirazione"
+      ],
+      "collegamenti": [],
+      "incontri": []
+    }
+  ],
+  "lessico": []
+}
