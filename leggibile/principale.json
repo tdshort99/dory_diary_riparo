@@ -1207,20 +1207,28 @@
     },
     {
       "nome": "Brad Pitt",
-      "frase": null,
+      "frase": "Ciao",
       "verbo": null,
       "specie": "pensiero",
       "lingua": null,
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-08-31 22:59:19",
-      "aggiornata_il": "2026-08-31 22:59:19",
+      "aggiornata_il": "2026-09-03 01:05:31",
       "sensi": [],
       "cluster": [
         "attori"
       ],
       "collegamenti": [],
-      "incontri": []
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:40:25",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "bcfbe3d965cfb85e142a5358.jpg"
+        }
+      ]
     },
     {
       "nome": "burro di arachidi",
@@ -1231,13 +1239,38 @@
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-08-31 23:41:49",
-      "aggiornata_il": "2026-08-31 23:42:23",
+      "aggiornata_il": "2026-09-03 00:42:28",
       "sensi": [],
       "cluster": [
         "dolci che mi piacciono"
       ],
-      "collegamenti": [],
-      "incontri": []
+      "collegamenti": [
+        {
+          "a": "Milan",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Via Odoardo Tabacchi",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Rome",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Roma",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:41:50",
+          "dove": "Milan",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
     },
     {
       "nome": "asta del metro come supporto per microfono clip",
@@ -1323,6 +1356,156 @@
       ],
       "collegamenti": [],
       "incontri": []
+    },
+    {
+      "nome": "Milan",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 00:41:50",
+      "aggiornata_il": "2026-09-03 00:54:05",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "burro di arachidi",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:41:50",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "2f696c6f6b925b23b0b11882.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Via Odoardo Tabacchi",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 00:42:02",
+      "aggiornata_il": "2026-09-03 00:42:02",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "burro di arachidi",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:42:02",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Rome",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 00:42:12",
+      "aggiornata_il": "2026-09-03 00:42:28",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "burro di arachidi",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:42:12",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-09-03 00:42:28",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Roma",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 00:42:20",
+      "aggiornata_il": "2026-09-03 00:42:20",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "burro di arachidi",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 00:42:20",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Gattini",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 06:44:58",
+      "aggiornata_il": "2026-09-03 06:44:58",
+      "sensi": [],
+      "cluster": [],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-09-03 06:44:58",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
     }
   ],
   "lessico": []
