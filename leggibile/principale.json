@@ -640,10 +640,11 @@
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-08-31 08:25:04",
-      "aggiornata_il": "2026-08-31 08:25:35",
+      "aggiornata_il": "2026-09-03 08:05:05",
       "sensi": [],
       "cluster": [
-        "oggetti"
+        "oggetti",
+        "elettronica che mi piace"
       ],
       "collegamenti": [
         {
@@ -658,6 +659,13 @@
           "con_chi": null,
           "nota": "l'ergonomia",
           "foto": "010671922265f6573ff78b3b.jpg"
+        },
+        {
+          "quando": "2026-09-03 08:05:05",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "e5b5775daed18432225e3416.jpg"
         }
       ]
     },
@@ -1366,7 +1374,7 @@
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-09-03 00:41:50",
-      "aggiornata_il": "2026-09-03 00:54:05",
+      "aggiornata_il": "2026-09-03 07:04:35",
       "sensi": [],
       "cluster": [
         "locali"
@@ -1374,6 +1382,10 @@
       "collegamenti": [
         {
           "a": "burro di arachidi",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Gattini",
           "tipo": "luogo"
         }
       ],
@@ -1384,6 +1396,13 @@
           "con_chi": null,
           "nota": null,
           "foto": "2f696c6f6b925b23b0b11882.jpg"
+        },
+        {
+          "quando": "2026-09-03 07:04:35",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
         }
       ]
     },
@@ -1426,7 +1445,7 @@
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-09-03 00:42:12",
-      "aggiornata_il": "2026-09-03 00:42:28",
+      "aggiornata_il": "2026-09-03 07:04:40",
       "sensi": [],
       "cluster": [
         "locali"
@@ -1434,6 +1453,10 @@
       "collegamenti": [
         {
           "a": "burro di arachidi",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Gattini",
           "tipo": "luogo"
         }
       ],
@@ -1447,6 +1470,13 @@
         },
         {
           "quando": "2026-09-03 00:42:28",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-09-03 07:04:40",
           "dove": null,
           "con_chi": null,
           "nota": null,
@@ -1486,17 +1516,28 @@
     },
     {
       "nome": "Gattini",
-      "frase": null,
+      "frase": "molto belli",
       "verbo": null,
       "specie": "momento",
       "lingua": null,
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-09-03 06:44:58",
-      "aggiornata_il": "2026-09-03 06:44:58",
+      "aggiornata_il": "2026-09-03 07:04:40",
       "sensi": [],
-      "cluster": [],
-      "collegamenti": [],
+      "cluster": [
+        "principi"
+      ],
+      "collegamenti": [
+        {
+          "a": "Milan",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Rome",
+          "tipo": "luogo"
+        }
+      ],
       "incontri": [
         {
           "quando": "2026-09-03 06:44:58",
@@ -1504,6 +1545,98 @@
           "con_chi": null,
           "nota": null,
           "foto": null
+        },
+        {
+          "quando": "2026-09-03 07:03:50",
+          "dove": "Milan",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "cani",
+      "frase": "animali simpatici",
+      "verbo": null,
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 07:07:16",
+      "aggiornata_il": "2026-09-03 07:08:19",
+      "sensi": [],
+      "cluster": [
+        "piante"
+      ],
+      "collegamenti": [
+        {
+          "a": "Romano di Lombardia",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 07:08:19",
+          "dove": "Romano di Lombardia",
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Romano di Lombardia",
+      "frase": null,
+      "verbo": "ci sono stato",
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 07:08:19",
+      "aggiornata_il": "2026-09-03 07:08:19",
+      "sensi": [],
+      "cluster": [
+        "locali"
+      ],
+      "collegamenti": [
+        {
+          "a": "cani",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 07:08:19",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        }
+      ]
+    },
+    {
+      "nome": "Airpods",
+      "frase": "super comode da utilizzare",
+      "verbo": null,
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 07:09:52",
+      "aggiornata_il": "2026-09-03 07:09:52",
+      "sensi": [],
+      "cluster": [
+        "elettronica che mi piace"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-09-03 07:09:52",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "1ed1b2334ca8a24dc5c53f9f.jpg"
         }
       ]
     }
