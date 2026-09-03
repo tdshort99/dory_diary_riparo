@@ -1374,7 +1374,7 @@
       "stato": "attiva",
       "passata_il": null,
       "creata_il": "2026-09-03 00:41:50",
-      "aggiornata_il": "2026-09-03 07:04:35",
+      "aggiornata_il": "2026-09-03 15:49:26",
       "sensi": [],
       "cluster": [
         "locali"
@@ -1386,6 +1386,10 @@
         },
         {
           "a": "Gattini",
+          "tipo": "luogo"
+        },
+        {
+          "a": "Mongardi",
           "tipo": "luogo"
         }
       ],
@@ -1399,6 +1403,13 @@
         },
         {
           "quando": "2026-09-03 07:04:35",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": null
+        },
+        {
+          "quando": "2026-09-03 15:49:26",
           "dove": null,
           "con_chi": null,
           "nota": null,
@@ -1639,6 +1650,103 @@
           "foto": "1ed1b2334ca8a24dc5c53f9f.jpg"
         }
       ]
+    },
+    {
+      "nome": "Metrica 3M",
+      "frase": null,
+      "verbo": null,
+      "specie": "momento",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 14:49:56",
+      "aggiornata_il": "2026-09-03 14:49:56",
+      "sensi": [],
+      "cluster": [
+        "oggetti"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-09-03 14:49:56",
+          "dove": null,
+          "con_chi": null,
+          "nota": null,
+          "foto": "ebf1c4e5d9b42ea34778384f.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Mongardi",
+      "frase": "come si evolve",
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 15:48:40",
+      "aggiornata_il": "2026-09-03 15:49:26",
+      "sensi": [],
+      "cluster": [
+        "artisti"
+      ],
+      "collegamenti": [
+        {
+          "a": "Milan",
+          "tipo": "luogo"
+        }
+      ],
+      "incontri": [
+        {
+          "quando": "2026-09-03 15:48:40",
+          "dove": "Milan",
+          "con_chi": null,
+          "nota": "come si evolve",
+          "foto": "a09307bc58d628a2f0d11937.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Spritz",
+      "frase": "l'aperitivo giusto",
+      "verbo": "bevuto",
+      "specie": "momento",
+      "lingua": "it",
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 17:31:38",
+      "aggiornata_il": "2026-09-03 17:31:49",
+      "sensi": [],
+      "cluster": [
+        "bevande"
+      ],
+      "collegamenti": [],
+      "incontri": [
+        {
+          "quando": "2026-09-03 17:31:38",
+          "dove": null,
+          "con_chi": null,
+          "nota": "l'aperitivo giusto",
+          "foto": "921bb5ed258edc0d259c7525.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Chinotto",
+      "frase": null,
+      "verbo": null,
+      "specie": "pensiero",
+      "lingua": null,
+      "stato": "attiva",
+      "passata_il": null,
+      "creata_il": "2026-09-03 17:32:37",
+      "aggiornata_il": "2026-09-03 17:32:37",
+      "sensi": [],
+      "cluster": [
+        "bevande"
+      ],
+      "collegamenti": [],
+      "incontri": []
     }
   ],
   "lessico": []
